@@ -1,0 +1,26 @@
+aside {
+
+    width: 8%;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+aside p {
+    color: #D5D5D6;
+    width: 203%;
+    rotate: 270deg;
+    margin-left: -50%;
+    margin-top: 145%;
+}
+aside img {
+    display: block;
+    margin: 0 auto;
+}
+.tumblr{
+    margin-top: 335%;
+
+}
+.twitter ,
+.vimeo{
+    margin-top: 25%;
+}
