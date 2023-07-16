@@ -1,0 +1,53 @@
+.P4 {
+    padding-top: 2vw;
+}
+
+.p4-1 {
+    width: 39.5vw;
+    display: inline-block;
+}
+
+.p4-2 {
+    width: 62vw;
+    display: inline-block;
+}
+
+.P4 img {
+    width: 52.8vw;
+    display: inline-block;
+}
+ .p4-1-1{
+    font-size: 15vw;
+    margin: 0vw 0 -8vw 11vw ;
+    color: #F9F9F9;
+}
+.p4-1-2{
+    display: inline-block;
+    font-size: 3.4vw;
+    margin: -5vw 0 0 12vw;
+}
+.p4-1-3{
+    display: inline-block;
+    margin: 0 0 0 12vw;
+    font-size: 1.3vw;
+    color: #D5D5D6;
+    width: 25vw;
+}
+.p4-1-4{
+    display: inline-block;
+    margin: 4vw 0 0 12vw;
+    letter-spacing: 0.31vw;
+    cursor: pointer;
+    font-size: 0.75vw;
+}
+.p4-1-1-l{
+    display: inline-block;
+    margin: 0 0 0 12vw;
+    border-color: #5DA8EF;
+    width: 2vw;
+} 
+.p4-1-4-l{
+    margin: 0 0 7vw 12vw;
+    border-color: #5DA8EF;
+    width: 6.7vw;
+}
