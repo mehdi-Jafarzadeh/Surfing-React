@@ -3,17 +3,20 @@ nav {
 }
 
 nav img {
-        margin: 4% 0 0 8%;
+    margin: 3vw 0 0 8.4vw;
+    width: 1.2vw;
+    height: 3vw;
 }
 
 nav ul {
-    padding-left: 10%;
-    margin-top: 5%;
+    font-size: 1vw;
+    letter-spacing: 0.2vw;
+    margin: 4.5vw 0 0 10vw;
 }
 
 nav ul li {
     display: inline;
-    margin-left: 16%;
+    margin-left: 2.5vw;
 }
 nav ul li:hover {
     cursor: pointer;
