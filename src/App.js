@@ -13,16 +13,16 @@ import P3 from './components/P3/P3';
 function App() {
   return (
     <div className="App">
-      {/* <Navbar /> */}
+      <Navbar />
       {/* <Sidebar /> */}
-      {/* <P1 /> */}
-      {/* <P2 /> */}
+      <P1 />
+      <P2 />
       <P3 />
-      {/* <P4 /> */}
-      {/* <P5 /> */}
-      {/* <P6 /> */}
-      {/* <P7 /> */}
-      {/* <Footer /> */}
+      <P4 />
+      <P5 />
+      <P6 />
+      <P7 />
+      <Footer />
     </div>
   );
 }

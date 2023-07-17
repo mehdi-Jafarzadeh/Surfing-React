@@ -12,6 +12,8 @@ const P6 = () => {
             <input type="text" className="p6-input" placeholder='Y O U R  E - M A I L' />
             <button className='p6-btn'>{">"}</button>
             </div>
+            
+        <p className="p6-side-text">SURF CAMPS</p>
         </div>
     );
 }

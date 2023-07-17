@@ -41,3 +41,13 @@
     .p6-btn:hover{
         cursor: pointer;
     }
+
+    .p6-side-text{
+        position: absolute;
+        top: 230vw;
+        left: 16.5vw;
+        rotate: 270deg;
+        color: #D5D5D6;
+        font-size: 1vw;
+        letter-spacing: 0.3vw;
+    }
