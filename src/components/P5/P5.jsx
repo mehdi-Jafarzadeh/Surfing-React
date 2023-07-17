@@ -15,6 +15,7 @@ const P5 = () => {
                 <p className='p5-1-4'>READ MORE</p>
                 <hr className="p5-1-4-l" />
             </div>
+                <p className="p5-side-text">SURF CAMPS</p>
         </div>
     );
 }

@@ -22,7 +22,6 @@
     font-size: 15vw;
     margin: 0vw 0 -8vw 5vw ;
     color: #F9F9F9;
-    display: ;
 }
 .p5-1-2{
     display: inline-block;
@@ -54,4 +53,14 @@
     margin: 0 0 7vw 5vw;
     border-color: #5DA8EF;
     width: 6.7vw;
+}
+
+.p5-side-text{
+    position: absolute;
+    top: 190.7vw;
+    right: 0vw;
+    rotate: 270deg;
+    color: #D5D5D6;
+    font-size: 1vw;
+    letter-spacing: 0.3vw;
 }
