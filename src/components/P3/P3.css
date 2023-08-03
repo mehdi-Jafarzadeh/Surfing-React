@@ -1,0 +1,33 @@
+.items img {
+    width: 28vw;
+    margin: 0 1vw;
+}
+.p3-curasel{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.p3-cont{
+    margin-top: 14vw;
+}
+.p3-title{
+    font-size: 3vw;
+    margin: 0 0 0 42vw;
+    color: rgb(66, 66, 66);
+}
+.p3-ti-des{
+    margin: 16vw 0 0 47.5vw;
+    font-size: 1vw;
+    letter-spacing: 0.3vw;
+    color: #5DA8EF;
+}
+.p3-link{margin: 5vw 0 0 46vw;
+font-size: 1vw;
+letter-spacing: 0.2vw;}
+.p3-link-l{
+    border-color: #5DA8EF;
+    width: 6.5vw;
+    margin: 0.5vw 0 0 46vw;
+}
+
+

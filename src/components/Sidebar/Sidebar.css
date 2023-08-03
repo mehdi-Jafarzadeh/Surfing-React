@@ -1,27 +1,31 @@
-aside {
-
-    width: 8%;
-    position: absolute;
-    top: 0;
-    right: 0;
-}
+aside {}
 aside p {
     color: #D5D5D6;
-    heigh: 300%;
-    
     rotate: 270deg;
-    margin-left: -50%;
-    margin-top: 145%;
+    width: 35vw;
+    position: relative;
+    top: 1.5vw;
+    right: -77.5vw;
+    font-size: 1vw;
+    letter-spacing: 0.3vw;
 }
+aside img:hover { cursor: pointer;}
 aside img {
-    display: block;
-    margin: 0 auto;
+    position: absolute;
+    /* display: inline-block; */
+    left: 94vw;
+    height: 1vw;
 }
 .tumblr{
-    margin-top: 335%;
-
+    height: 1.5vw;
+    top: 41vw;
+    /* right: -94vw; */
 }
-.twitter ,
+.twitter{
+    top: 44vw;
+    /* right: -92.5vw; */
+}
 .vimeo{
-    margin-top: 25%;
+    top: 47vw;
+    /* right: -90.5vw; */
 }

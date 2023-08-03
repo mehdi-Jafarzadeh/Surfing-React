@@ -1,0 +1,32 @@
+.P7 img {
+    width: 50vw;
+    display: inline-block;
+}
+.p7-texts{
+    display: inline-block;
+    width: 40vw;
+}
+.p7-des{
+    color: #D5D5D6;
+    font-size: 0.9vw;
+    margin : 0 0 5vw 3vw ;
+    letter-spacing: 0.2vw ;
+}
+.p7-texts h1{
+    margin: 0 0 0 6vw;
+    font-size: 2.5vw;
+    color: rgb(77, 77, 77);
+}
+.p7-link{
+    margin: 3vw 0 0 3vw;
+    font-size: 0.9vw;
+    color: #5DA8EF;
+}
+.p7-texts hr{
+    margin: 0.3vw 0 8vw 3vw;
+    width: 6vw;
+    border-color: #5DA8EF;
+}
+.p7-link:hover{
+    cursor: pointer;
+}

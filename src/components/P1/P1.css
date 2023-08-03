@@ -1,0 +1,36 @@
+.P1 img {
+    width: 77vw;
+    margin: 0 0 0 17vw;
+}
+.p1-texts{
+    margin: -33vw 0 0 8vw ;
+}
+.p-t1{
+    color: #5DA8EF;
+    font-size: 1vw;
+    letter-spacing: 0.2vw;
+    margin-bottom: 0.7vw;
+}
+.p1-title{
+    font-size: 4.5vw;
+    margin-bottom: 2vw;
+}
+.p1-dec{
+    color: #A0A5A8 ;
+    width: 29vw;
+    font-size: 1.3vw;
+    margin-bottom: 11vw;
+}
+.p1-texts img {
+    width: 1vw;
+    margin: 0 1vw;
+}
+.p1-control{
+    margin-left: -5vw;
+    font-size: 1vw;
+    display: flex;
+    align-items: center;
+}
+.p1-c-1{
+    color: #5DA8EF;
+}
